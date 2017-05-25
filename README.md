@@ -44,7 +44,7 @@ Using the `<v-touch>` component
 
 ### Component Events
 
-vue-touch supports all Hammer Events ot of the box, just bind a listener to the component with `v-on` and vue-touch will setup the Hammer Manager & Recognizer for you.
+vue-touch supports all Hammer Events out of the box, just bind a listener to the component with `v-on` and vue-touch will setup the Hammer Manager & Recognizer for you.
 
 |Recognizer|Events|Example|
 |---|----|----|
